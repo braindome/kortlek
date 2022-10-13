@@ -44,6 +44,8 @@ public class Main {
         System.out.println(deck.toString());
         System.out.println("Deck size: " + deck.size());
 
+        System.out.println("Who is this");
+
 
         System.out.println("Compare card values");
         System.out.println("Input two integers between 0 and 51");
